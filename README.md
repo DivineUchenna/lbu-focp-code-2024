@@ -1,5 +1,7 @@
-# Introduction to Programming
-
+# Programming Portfolio
+Divine Uchenna Amakiri
+4FSC
+Tony Jenkins
 This repo contains sample program code from the *Introduction to Programming* module. It is for the 2024/2025 academic year.
 
 It probably makes little sense without access to the corresponding sections on MyBeckett.
